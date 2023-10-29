@@ -8,6 +8,8 @@ body {
 	padding: 0px;
 }
 
+.text-right{color:#C0392B}/*MOUNTAIN MEADOW*/
+
 ::selection {
 	background: transparent;
 }
